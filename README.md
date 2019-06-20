@@ -3,7 +3,7 @@ De-Mystifying Machine Learning
 De-Mystifying  ML
 
 Scenario:
-I’m a data analyst for Lending Club. I have been tasked with reviewing 3 years of data and identifying the best lending markets based on various borrowing criteria (ex. state, zip code, loan purpose). 
+I’m a data analyst working for Lending Club. I have been tasked with reviewing 3 years of data and identifying the best lending markets based on various borrowing criteria (ex. state, zip code, loan purpose). 
 
 Plan:
 My plan is to create a machine learning model that will determine the best lending markets using the loan status of past loans approval over a 3 year period.
