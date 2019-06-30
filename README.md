@@ -21,9 +21,11 @@ Overall Loan Data 2011-2017
 Lending Club Data Dictionary
 
 Methods:
-Python Pandas
-Python Matplotlib
-Sci-Learn
-Tableau
+1. Python Pandas
+2. Python Matplotlib
+3. Sci-Learn
+4. Tableau
 
 Model Selection: 
+1. Logistic Regression
+2. Random Forest 
