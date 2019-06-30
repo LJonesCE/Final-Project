@@ -27,3 +27,5 @@ Sci-Learn
 Tableau
 
 Model Selection: 
+Logistic Regression
+Random Forest 
